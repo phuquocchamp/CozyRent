@@ -723,6 +723,7 @@ header #login-box a span {
 }
 
 .single-agent {
+  /* display: flex; */
   float: left;
   padding: 15px;
 }
@@ -730,6 +731,7 @@ header #login-box a span {
 .single-agent .image-box {
   float: left;
   width: 50%;
+  /* min-width: 250px; */
   height: 256px;
   position: relative;
   overflow: hidden;
